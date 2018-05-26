@@ -1,0 +1,2 @@
+# contract
+Mygoal game contract
